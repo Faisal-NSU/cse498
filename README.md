@@ -12,3 +12,5 @@ language processing (NLP) techniques to preprocess the data, extract necessary f
 frequency, TF-IDF, and so on, and then experiment with and compare the results using various machine
 learning models.
 </p>
+
+<a href="https://www.kaggle.com/anu0012/hotel-review" > Kaggle Dataset Link </a>
